@@ -1,5 +1,8 @@
 # README
 
+Finance Tracker - description here
+Written with Rails v6.1.7.3 and Ruby 2.7.8
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
