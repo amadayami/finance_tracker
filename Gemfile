@@ -52,3 +52,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "shakapacker", "= 6.6"
+
+gem 'devise'
