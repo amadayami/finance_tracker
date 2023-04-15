@@ -54,3 +54,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "shakapacker", "= 6.6"
 
 gem 'devise'
+gem 'devise-bootstrap-views', '~> 1.0'
