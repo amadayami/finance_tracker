@@ -1,3 +1,4 @@
+const webpack = require('webpack')
 const { webpackConfig, merge } = require('shakapacker')
 
 const sassRule = webpackConfig.module.rules.find(rule => rule.test.test('.sass') || rule.test.test('.scss'))
